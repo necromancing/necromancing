@@ -1,5 +1,4 @@
-#
-<div align=center>  <img width="160" height="273" alt="skelesigh" src="https://github.com/user-attachments/assets/118fc69f-bae5-473e-ac9d-36c4c09ed9d1" />
+<div align=left>  <img width="160" height="273" alt="skelesigh" src="https://github.com/user-attachments/assets/118fc69f-bae5-473e-ac9d-36c4c09ed9d1" />
 　　　　　　　　　　　　　　　   　　　　　
 
 <div align=left> ✧
