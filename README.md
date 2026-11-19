@@ -1,17 +1,20 @@
-<div align=left>  <img width="160" height="273" alt="skelesigh" src="https://github.com/user-attachments/assets/118fc69f-bae5-473e-ac9d-36c4c09ed9d1" />
+<div align=left>  <img width="486" height="764" alt="cantbe" src="https://github.com/user-attachments/assets/e00b5f43-ec3d-4095-adfa-04001cb2c94b" />
+ />
 　　　　　　　　　　　　　　　   　　　　　
 
 <div align=left> ✧
       
-<div align=center> Necromancer 　 / 　 Soren　.ᐟ⸝⸝
+<div align=center> Bartholomew 　 / 　 Soren　.ᐟ⸝⸝
+<div align=center> <img width="400" height="19" alt="tumblr_6fa1c732b0dd7708f863f2a1a95c7c66_8331c1c3_400" src="https://github.com/user-attachments/assets/9a1a3aaa-b5dd-4344-bf97-13f810ddb342" />
 
-<div align=center> '⁔ 　I am very shy when it comes to strangers, but I don't necessarily hate interaction.<img width="800" height="30" alt="09" src="https://github.com/user-attachments/assets/584ff16a-c7cd-42ba-b6e7-3354ae1ec8a3" />
 
-<div align=center>Very fond of insects and mycology. The cobalt crust fungus is a personal favorite! :-)
+<div align=center> '⁔ 　I am... Very shy when it comes to strangers. But I might talk. />
+
+<div align=center>Very fond of insects, Phighting, and mycology. The cobalt crust fungus is a personal favorite! :-)
 
 <div align=right> ✧
         
- <div align=center> Ɛ==3
+ <div align=center> .
 
 <div align=center> <img width="150" height="20" alt="d28" src="https://github.com/user-attachments/assets/41fffd19-7fd3-4570-a4fa-280b55dbfcde" />
 
