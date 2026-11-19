@@ -1,7 +1,6 @@
 <html>
 <!-- I actually get to use some of the HTML I have learned, for this! Isn't that wonderful?
       I just... Can't get the text to be colored, no matter what I try... HTML or not HTML, it does not quite work. Otherwise, it has been quite fun! -->
-     <div align=center> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Code&duration=4000&pause=2000&color=696969&width=435&lines=Rise%2C+and+approach+things+differently." alt="Typing SVG" /></a>
 
 <div align=left> <img width="20" height="20" alt="tumblr_inline_mu7v2yHUrl1r37k2u540" src="https://github.com/user-attachments/assets/333ffedd-8d2c-41f8-b41c-71371e436dbc" />
 
