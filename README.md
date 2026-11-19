@@ -1,5 +1,6 @@
 <html>
-
+<!-- I actually get to use some of the HTML I have learned, for this! Isn't that wonderful?
+      I just... Can't get the text to be colored, no matter what I try... HTML or not HTML, it does not quite work. Otherwise, it has been quite fun! -->
 
 <div align=left> <img width="20" height="20" alt="tumblr_inline_mu7v2yHUrl1r37k2u540" src="https://github.com/user-attachments/assets/333ffedd-8d2c-41f8-b41c-71371e436dbc" />
 
@@ -14,7 +15,6 @@
 
 <div align=center> <p>'⁔ I am... Very shy when it comes to strangers, so sorry if I seem am at all distant. I'm not one to initiate conversation, either. </p></code> <br>
  <div align=center> .
- <code style="color : "red">test</code>
 
 <div align=center> Very fond of insects, Phighting, and mycology. My favorite deity is Ghostwalker, but I think that's a bit clear. :-D
 
@@ -26,5 +26,4 @@
 </a>
 
 <div align=right> <img width="20" height="20" alt="tumblr_inline_mu7v34CyGE1r37k2u540" src="https://github.com/user-attachments/assets/1e471a8e-dda2-4282-9146-cb28a435d8b0" />
-head>
 </html>
