@@ -1,4 +1,4 @@
-
+<html>
 
 <div align=left> <img width="20" height="20" alt="tumblr_inline_mu7v2yHUrl1r37k2u540" src="https://github.com/user-attachments/assets/333ffedd-8d2c-41f8-b41c-71371e436dbc" />
 
@@ -19,7 +19,9 @@
 <div align=right> ✧
         
  <div align=center> <p> . </p>
-<a target="_blank" href="https://phighting.wiki/Blackrock"> </a>
+<a target="_blank" href="https://necromancing.atabook.org/"> <code>Guestbook.</code>
+    
+</a>
 
 <div align=right> <img width="20" height="20" alt="tumblr_inline_mu7v34CyGE1r37k2u540" src="https://github.com/user-attachments/assets/1e471a8e-dda2-4282-9146-cb28a435d8b0" />
 </html>
