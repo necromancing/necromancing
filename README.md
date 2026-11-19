@@ -9,7 +9,7 @@
 <div align=center> <img width="400" height="19" alt="tumblr_6fa1c732b0dd7708f863f2a1a95c7c66_8331c1c3_400" src="https://github.com/user-attachments/assets/9a1a3aaa-b5dd-4344-bf97-13f810ddb342" />
 
 
-<div align=center> '⁔ 　I am... Very shy when it comes to strangers, so sorry if seem am at all distant. I'm not one to initiate conversation, either.
+<div align=center> '⁔ 　I am... Very shy when it comes to strangers, so sorry if I seem am at all distant. I'm not one to initiate conversation, either.
 
 <div align=center> Very fond of insects, Phighting, and mycology. My favorite deity is Ghostwalker. :-)
 
