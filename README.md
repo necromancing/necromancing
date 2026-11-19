@@ -1,4 +1,8 @@
-<div align=center> <img width="486" height="764" alt="cantbe" src="https://github.com/user-attachments/assets/25caf242-814e-4b5d-8027-edcb50d196f4" />
+<div align=left> <img width="20" height="20" alt="tumblr_inline_mu7v2yHUrl1r37k2u540" src="https://github.com/user-attachments/assets/333ffedd-8d2c-41f8-b41c-71371e436dbc" />
+<img width="20" height="20" alt="tumblr_inline_mu7v34CyGE1r37k2u540" src="https://github.com/user-attachments/assets/4e8517d6-f088-4a22-b283-062dc29e6fa0" />
+
+<div align=center> <img width="486" height="564" alt="stillcant" src="https://github.com/user-attachments/assets/11bf5905-459f-4d35-a5b1-bcc7822bf675" />
+
 　　　　　　　　　　　　　   　　　　　
 <div align=left> ✧
       
@@ -14,6 +18,5 @@
         
  <div align=center> .
 
-<div align=center> <img width="150" height="20" alt="d28" src="https://github.com/user-attachments/assets/41fffd19-7fd3-4570-a4fa-280b55dbfcde" />
+<div align=right> <img width="20" height="20" alt="tumblr_inline_mu7v34CyGE1r37k2u540" src="https://github.com/user-attachments/assets/1e471a8e-dda2-4282-9146-cb28a435d8b0" />
 
-<div align=center><img width="150" height="20" alt="d29 (1)" src="https://github.com/user-attachments/assets/2c366084-d3ad-48c9-83b1-ec7642dd8f33" />
