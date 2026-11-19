@@ -19,8 +19,6 @@
 <div align=center> Very fond of insects, Phighting, and mycology. My favorite deity is Ghostwalker, but I think that's a bit clear. :-D
 
 <div align=right> ✧
-        
- <div align=center> <p> . </p>
 <a target="_blank" href="https://necromancing.atabook.org/"> <code>Guestbook.</code>
     
 </a>
