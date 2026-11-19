@@ -1,4 +1,5 @@
-<div align=center> <img width="486" height="764" alt="cantbe" src="https://github.com/user-attachments/assets/e00b5f43-ec3d-4095-adfa-04001cb2c94b"/>　　　　　　　　　　　　　　   　　　　　
+<div align=center> <img width="486" height="764" alt="cantbe" src="https://github.com/user-attachments/assets/25caf242-814e-4b5d-8027-edcb50d196f4" />
+　　　　　　　　　　　　　   　　　　　
 <div align=left> ✧
       
 <div align=center> Bartholomew 　 / 　 Soren　.ᐟ⸝⸝
