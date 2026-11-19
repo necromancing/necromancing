@@ -13,13 +13,13 @@
 <div align=center> <p> <img width="400" height="19" alt="tumblr_6fa1c732b0dd7708f863f2a1a95c7c66_8331c1c3_400" src="https://github.com/user-attachments/assets/9a1a3aaa-b5dd-4344-bf97-13f810ddb342" /></p>
 
 
-<div align=center> <p>'⁔ I am... Very shy when it comes to strangers, so sorry if I seem, or am at all distant. I'm not often one to initiate conversation, either. </p></code> <br>
- <div align=center> .
+<div align=center> <p>'⁔ I am... Very shy when it comes to strangers, so sorry if I seem, or am at all distant. I'm not often one to initiate conversation, either. </p>
+<div align=center> .
 
 <div align=center> Very fond of insects, Phighting, and mycology. My favorite deity is Ghostwalker, but I think that's a bit clear. :-D
 
-<div align=right> ✧
-<a target="_blank" href="https://necromancing.atabook.org/"> <code>Guestbook.</code>
+<div align=right> ✧ 
+<div align=center> <p><a target="_blank" href="https://necromancing.atabook.org/"> <code>Guestbook.</code></p>
     
 </a>
 
