@@ -20,7 +20,6 @@
 
 <div align=right> ✧ 
 <div align=center> <p><a target="_blank" href="https://necromancing.atabook.org/"> <code>Guestbook.</code></p>
-<sub> All art you see is by me. :-) </sub>
     
 </a>
 
