@@ -16,10 +16,11 @@
 <div align=center> <p>'⁔ I am... Very shy when it comes to strangers, so sorry if I seem, or am at all distant. I'm not often one to initiate conversation, either. </p>
 <div align=center> .
 
-<div align=center> Very fond of insects, Phighting, and mycology. My favorite deity is Ghostwalker, but I think that's a bit clear. :-D
+<div align=center> Very fond of insects, Phighting, and mycology. My favorite deity is Ghostwalker, but I think that might be a bit clear. :-D
 
 <div align=right> ✧ 
 <div align=center> <p><a target="_blank" href="https://necromancing.atabook.org/"> <code>Guestbook.</code></p>
+<sub> All art you see is by me. :-) </sub>
     
 </a>
 
