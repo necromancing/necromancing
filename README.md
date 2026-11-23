@@ -8,7 +8,7 @@
 　　　　　　　　　　　　　   　　　　　
 <div align=left> ✧
       
-<div align=center> <p><code><strong>  <code style="color : red">test</code> 　 / 　 <ins>Soren</ins>　.ᐟ⸝⸝ </strong></code></p>
+<div align=center> <p><code><strong> Ghost 　 / 　 <ins>Soren</ins>　.ᐟ⸝⸝ </strong></code></p>
 <div align=center> <p> <img width="400" height="19" alt="tumblr_6fa1c732b0dd7708f863f2a1a95c7c66_8331c1c3_400" src="https://github.com/user-attachments/assets/9a1a3aaa-b5dd-4344-bf97-13f810ddb342" /></p>
 
 
@@ -24,4 +24,5 @@
 </a>
 
 <div align=right> <img width="20" height="20" alt="tumblr_inline_mu7v34CyGE1r37k2u540" src="https://github.com/user-attachments/assets/1e471a8e-dda2-4282-9146-cb28a435d8b0" />
+       <code style="color : red">test</code>
 </html>
