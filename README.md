@@ -20,8 +20,7 @@
 
 <div align=right> ✧ 
 <div align=center> <p><a target="_blank" href="https://necromancing.atabook.org/"> <code>Guestbook.</code></p><br>
-<div align=center> .
-<div align=center> <p> <sub>My <ins>INSANE</ins> sister... hello...</sub></p>
+<div align=center> <p> <sub>My <ins>INSANE</ins> sister... Hello...</sub></p>
 <div align=center><p><a target="_blank" href="https://github.com/fennecyfoxy27/"> <sub>@FennecyFoxy27</sub> </p>
     
 </a>
