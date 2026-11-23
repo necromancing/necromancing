@@ -19,7 +19,10 @@
 <div align=center> Very fond of insects, Phighting, and mycology. My favorite deity is Ghostwalker, but I think that might be a bit clear. :-D
 
 <div align=right> ✧ 
-<div align=center> <p><a target="_blank" href="https://necromancing.atabook.org/"> <code>Guestbook.</code></p>
+<div align=center> <p><a target="_blank" href="https://necromancing.atabook.org/"> <code>Guestbook.</code></p><br>
+<div align=center> .
+<div align=center> <p> <sub>My <ins>INSANE</ins> sister...</sub></p>
+<div align=center><p><a target="_blank" href="https://github.com/fennecyfoxy27/"> <sub>@FennecyFoxy27</sub> </p>
     
 </a>
 
