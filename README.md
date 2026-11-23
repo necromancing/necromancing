@@ -4,9 +4,7 @@
 
 <div align=left> <img width="20" height="20" alt="tumblr_inline_mu7v2yHUrl1r37k2u540" src="https://github.com/user-attachments/assets/333ffedd-8d2c-41f8-b41c-71371e436dbc" />
 
-<div align=center> <img width="658" height="694" alt="ghosthumming" src="https://github.com/user-attachments/assets/56ea6185-0ad7-47dc-b1f0-45e2d901bf2d" />
-/>
-
+<div align=center> <img width="258" height="294" alt="ghosthumming" src="https://github.com/user-attachments/assets/56ea6185-0ad7-47dc-b1f0-45e2d901bf2d" />
 　　　　　　　　　　　　　   　　　　　
 <div align=left> ✧
       
