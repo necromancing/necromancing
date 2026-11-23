@@ -19,7 +19,7 @@
 <div align=right> ✧ 
 <div align=center> <p><a target="_blank" href="https://necromancing.atabook.org/"> <code>Guestbook.</code></p><br>
 <div align=center> <p> <sub>My <ins>INSANE</ins> sister... Hello...</sub></p>
-<div align=center> <p> <img width="18" height="18" alt="tumblr_9942f9a99d7499f377c9f01b577f4558_c2207fbd_75" src="https://github.com/user-attachments/assets/df5a50d4-fb7a-4466-8d06-e1502c28e7ef" /> <a target="_blank" href="https://github.com/fennecyfoxy27/"> <sub>@FennecyFoxy27</sub> </p>
+<div align=center> <p> <sub> <img width="18" height="18" alt="tumblr_9942f9a99d7499f377c9f01b577f4558_c2207fbd_75" src="https://github.com/user-attachments/assets/df5a50d4-fb7a-4466-8d06-e1502c28e7ef" /> <a target="_blank" href="https://github.com/fennecyfoxy27/"> @FennecyFoxy27 </sub> </p>
     
 </a>
 
